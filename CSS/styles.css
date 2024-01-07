@@ -1,0 +1,9 @@
+.homepage-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.homepage-content {
+  flex: 1;
+}
